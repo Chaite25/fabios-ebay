@@ -1272,7 +1272,9 @@ section li {
     text-transform: uppercase;
     transition: 0.5s;
 }
-
+.footer-logo img {
+	padding: 0 0 20px;
+}
 .copy-right {
     background-color: #000;
     border-top: 1px solid #fff;
